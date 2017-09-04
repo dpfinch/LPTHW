@@ -2,7 +2,7 @@
 class Animal(object):
     pass
 
-## ??
+## ?? Is a class
 class Dog(Animal):
 
     def __init__(self, name):
@@ -72,4 +72,4 @@ flipper = Fish()
 crouse = Salmon()
 
 ## ??
-harry = Halibut()   
+harry = Halibut()
